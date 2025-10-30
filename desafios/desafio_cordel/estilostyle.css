@@ -99,6 +99,9 @@ section.imagem > p{
     background-color: #BABF1F;
    
 }
+section > p {
+    padding-bottom: 2em;
+}
 
 
 
